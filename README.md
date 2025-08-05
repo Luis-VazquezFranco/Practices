@@ -1,0 +1,2 @@
+# Practices
+Exercices to practice 
