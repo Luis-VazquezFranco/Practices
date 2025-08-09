@@ -8,7 +8,6 @@ class Solution {
         $s = trim($s);
         $array = explode(" ", $s);
         $arrayLength = count($array);
-        echo "array: " . var_export($array,true) . "length: " . $arrayLength;
         return strlen($array[$arrayLength-1]);
     }
 }
